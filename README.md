@@ -1,7 +1,7 @@
 # Daily_Calories-Protein_Tracker_by_Tasfir
 Daily Calories and Protein Tracker Python code by -  Tasfir Md Abu Talha
 
-#Abstract
+# Abstract
 Maintaining a balanced diet requires a basic understanding of how many calories and how much protein
 the body needs each day, yet most people have no simple way to estimate these figures or track what they
 actually eat. This report presents the design and implementation of a console-based Daily Calories &
